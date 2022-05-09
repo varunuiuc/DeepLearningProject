@@ -69,4 +69,4 @@ NA
 # Table of results :
 
 train_GAMENet results(reproduction)
-
+![My results](/GAMENetTrainresult.png)
