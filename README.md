@@ -29,13 +29,17 @@ Data can be downloaded as
 Real world dataset (MIMIC-III v1.4) on same physionet site can be accessed based on credential access.
 With valid/approved credentials data can be downloaded as csv or can be accessed on AWS or GCP.
 
+* download MIMIC data and put DIAGNOSES_ICD.csv, PRESCRIPTIONS.csv, PROCEDURES_ICD.csv in ./data/
+* download DDI data and put it in ./data/
+
+
 # Preprocessing code + command (if applicable):
+run code ./preproccesing/EDA.ipynb
+
+# Training code + command
 
 
-# Training code + command (if applicable):
-
-
-# Evaluation code + command (if applicable):
+# Evaluation code + command
 
 
 # Pretrained model (if applicable):
