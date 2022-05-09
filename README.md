@@ -68,4 +68,5 @@ NA
 
 # Table of results :
 
+train_GAMENet results(reproduction)
 
