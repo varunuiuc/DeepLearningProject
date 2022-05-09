@@ -31,10 +31,16 @@ With valid/approved credentials data can be downloaded as csv or can be accessed
 
 # Preprocessing code + command (if applicable):
 
+
 # Training code + command (if applicable):
+
 
 # Evaluation code + command (if applicable):
 
-# Pretrained model (if applicable):
 
-# Table of results (no need to include additional experiments, but main reproducibility result should be included):
+# Pretrained model (if applicable):
+NA
+
+# Table of results :
+
+
