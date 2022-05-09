@@ -41,8 +41,26 @@ run code ./preproccesing/EDA.ipynb. This can be executed on jupyter notebook for
 
 # Training code + command
 
+Run code for baseline
+
+
+* ./code/baseline/train_Retain.py
+* ./code/baseline/train_Leap.py
+
+Run code for GAMENet
+* ./code/train_GAMENet.py
 
 # Evaluation code + command
+GAMENet
+
+* Run ./code/predict.py
+python predict.py
+
+Baseline:
+
+* Run ./code/predict_Leap.py
+* Run ./code/predict_Retain.py
+
 
 
 # Pretrained model (if applicable):
